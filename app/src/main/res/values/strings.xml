@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectForSchool</string>
+    <string name="tvTitle">Полезные формулы для школы</string>
+    <string name="button1">Теорема Пифагора</string>
+    <string name="button2">Квадратное уравнение</string>
+    <string name="button3">Разность квадратов</string>
+    <string name="tvResult">Результат:&#160;</string>
+    <string name="input_a">введите значение А</string>
+    <string name="input_b">введите значение В</string>
+    <string name="resultPythagoras">Найти С</string>
+
+</resources>
